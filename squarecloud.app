@@ -1,6 +1,6 @@
-DISPLAY_NAME=square-git
+DISPLAY_NAME=gitsquare
 MAIN=index.html
-MEMORY=512
-SUBDOMAIN=squaregit
+MEMORY=1000
+SUBDOMAIN=gitsquare
 VERSION=recommended
 AUTORESTART=true
